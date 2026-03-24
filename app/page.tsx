@@ -30,7 +30,7 @@ export default function Home() {
     <>
       {/* NAV */}
       <nav>
-        <div className="nav-logo">Bankoma Market Market</div>
+        <div className="nav-logo">Bankoma Market</div>
         <ul className="nav-links">
           <li><a href="#designers">For Designers</a></li>
           <li><a href="#how">How It Works</a></li>
@@ -50,7 +50,7 @@ export default function Home() {
               <em>a home.</em>
             </h1>
             <p className="hero-sub">
-              Bankoma Market Market is a curated marketplace for African fashion designers — built to celebrate the craft, tell the stories, and connect creators with the world.
+              Bankoma Market is a curated marketplace for African fashion designers — built to celebrate the craft, tell the stories, and connect creators with the world.
             </p>
           </div>
           <div className="hero-bottom" id="waitlist">
@@ -71,7 +71,7 @@ export default function Home() {
           <div className="hero-grid-lines"></div>
           <div className="hero-big-b">B</div>
           <div className="hero-right-bottom">
-            <span className="hero-right-label">Est. 2025</span>
+            <span className="hero-right-label">Est. 2026</span>
             <div className="hero-cities">
               <span>Lagos · Accra · Nairobi</span>
               <span>London · New York · Toronto</span>
