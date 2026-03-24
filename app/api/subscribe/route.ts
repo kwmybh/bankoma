@@ -17,7 +17,7 @@ export async function POST(req: NextRequest) {
       },
       body: JSON.stringify({
         email,
-        listIds: [3], // replace 3 with your actual Brevo list ID
+        listIds: [2], // replace 3 with your actual Brevo list ID
         updateEnabled: true
       })
     });
