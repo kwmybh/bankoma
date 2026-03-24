@@ -30,7 +30,7 @@ export default function Home() {
     <>
       {/* NAV */}
       <nav>
-        <div className="nav-logo">Bankoma Market</div>
+        <div className="nav-logo">Bankoma Market Market</div>
         <ul className="nav-links">
           <li><a href="#designers">For Designers</a></li>
           <li><a href="#how">How It Works</a></li>
@@ -50,7 +50,7 @@ export default function Home() {
               <em>a home.</em>
             </h1>
             <p className="hero-sub">
-              Bankoma Market is a curated marketplace for African fashion designers — built to celebrate the craft, tell the stories, and connect creators with the world.
+              Bankoma Market Market is a curated marketplace for African fashion designers — built to celebrate the craft, tell the stories, and connect creators with the world.
             </p>
           </div>
           <div className="hero-bottom" id="waitlist">
@@ -117,7 +117,7 @@ export default function Home() {
           <h2 className="reveal">Fashion is never just fabric.<br /><em>It is memory, pride, and belonging.</em></h2>
           <div className="manifesto-cols">
             <p className="reveal">{"African fashion has always been world-class. The craft, the colour, the cultural depth — none of it needs to be explained to those who know. What it needed was a stage worthy of it."}</p>
-            <p className="reveal">{"Bankoma was built for every designer who carries a culture in their hands and a story in every stitch — working from Lagos, London, Accra, or Atlanta. This is not just a marketplace. It is an archive, a community, and a home."}</p>
+            <p className="reveal">{"Bankoma Market was built for every designer who carries a culture in their hands and a story in every stitch — working from Lagos, London, Accra, or Atlanta. This is not just a marketplace. It is an archive, a community, and a home."}</p>
           </div>
         </div>
       </section>
@@ -132,7 +132,7 @@ export default function Home() {
           <div className="pillar reveal">
             <span className="pillar-num">01</span>
             <h3>Curated Access</h3>
-            <p>Bankoma is not open to everyone. Every designer is reviewed and accepted. Your work sits alongside quality, not clutter.</p>
+            <p>Bankoma Market is not open to everyone. Every designer is reviewed and accepted. Your work sits alongside quality, not clutter.</p>
           </div>
           <div className="pillar reveal">
             <span className="pillar-num">02</span>
@@ -181,7 +181,7 @@ export default function Home() {
       <section className="cta-section">
         <div className="cta-left reveal">
           <h2>Be part of<br /><em>what<br />comes<br />first.</em></h2>
-          <p>{"We're opening Bankoma to a small founding group of designers and shoppers. Join the waitlist to be considered for early access."}</p>
+          <p>{"We're opening Bankoma Market to a small founding group of designers and shoppers. Join the waitlist to be considered for early access."}</p>
         </div>
         <div className="reveal">
           <span className="form-label">Join the waitlist</span>
@@ -199,7 +199,7 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer>
-        <div className="footer-logo">Bankoma</div>
+        <div className="footer-logo">Bankoma Market</div>
         <div className="footer-center">The Home of African Fashion</div>
         <div className="footer-right">© 2026</div>
       </footer>
