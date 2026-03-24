@@ -1,26 +1,18 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400;500&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --white: #faf8f4;
+  --paper: #f3efe8;
+  --paper-dark: #ede8df;
+  --border: #e0d9ce;
+  --mid-gray: #9a9085;
+  --dark: #1c1814;
+  --gold: #b8860b;
+  --gold-light: #d4a520;
+  --gold-pale: #f5ecd4;
+  --gold-border: #e2c97e;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
+/* ... Paste the rest of your CSS here ... */
